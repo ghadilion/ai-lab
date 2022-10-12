@@ -1,0 +1,8 @@
+c This is a comment
+c the follwing line specifies number of variables and number of clauses respectively
+p 4 4
+c the following lines are the clauses
+1 2 -3 0
+-1 -2 4 0
+-1 2 -4 0
+2 -3 4 0
