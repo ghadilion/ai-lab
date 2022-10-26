@@ -1,0 +1,13 @@
+c This is a comment
+c This file is in DIMACS cnf format
+c Each variable is indicated by a natural number
+c Negative literals are prefixed with a minus symbol
+c Positive literals are not prefixed with any symbol
+c The 2 numbers below indicate number of variables and number of clauses respectively
+p 3 4
+c the clauses are listed below
+c each clause is terminated with a 0
+-1 2 0
+-2 3 1 0
+-3 2 0
+-2 0
